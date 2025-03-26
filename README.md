@@ -4,7 +4,7 @@
 
 * Designed by https://www.mql5.com/ru/job/233710
 * Coded by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https:kislitsyn.me/personal/algo)
-* Version: 1.00
+* Version: 1.01
 
 ## Оглавление
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -34,6 +34,7 @@
 
 ## Что нового?
 ```
+1.01 [*] Исправлена ошибка определения SL и TP ручной позиции. Сейчас TP и SL определяются по сделки выхода, а ранее по сделки входа. Если вход был без SL, который изменили позже, то бот не мог его определить.
 1.00: First version
 ```
 

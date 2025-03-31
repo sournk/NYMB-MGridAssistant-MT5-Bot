@@ -4,7 +4,7 @@
 
 * Designed by https://www.mql5.com/ru/job/233710
 * Coded by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https:kislitsyn.me/personal/algo)
-* Version: 1.04
+* Version: 1.05
 
 ## Оглавление
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -34,6 +34,7 @@
 
 ## Что нового?
 ```
+1.05: [*] Релизная версия без ограничений.
 1.04: [+] 'SET_TRD_SLP' Допустимое проскальзывание торговых операций, пункт.
 1.03: [*] Исправлена ошибка номера шага в комментариях позиций и восстановления размера окна.
 1.02: [*] Исправлена ошибка мультипликатора лота. 

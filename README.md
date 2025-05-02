@@ -4,7 +4,7 @@
 
 * Designed by https://www.mql5.com/ru/job/233710
 * Coded by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https:kislitsyn.me/personal/algo)
-* Version: 1.05
+* Version: 2.00
 
 ## Оглавление
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->

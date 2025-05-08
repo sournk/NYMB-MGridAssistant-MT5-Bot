@@ -4,7 +4,7 @@
 
 * Designed by https://www.mql5.com/ru/job/233710
 * Coded by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https:kislitsyn.me/personal/algo)
-* Version: 2.00
+* Version: 2.01
 
 ## Оглавление
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -36,6 +36,7 @@
 
 ## Что нового?
 ```
+2.01: [+] DEBUG лог при SL
 2.00: [+] Гибкий мультипликатор лота: 'SET_LOT_NXS' и 'SET_LOT_NXR'
       [+] Повторное исполнение торговых операций при ошибках 'SET_TRD_REP' и 'SET_TRD_RET'.
 1.06: [*] Исправлена ошибка проверки ограничений на использование.

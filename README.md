@@ -4,7 +4,7 @@
 
 * Designed by https://www.mql5.com/ru/job/233710
 * Coded by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https:kislitsyn.me/personal/algo)
-* Version: 2.01
+* Version: 2.05
 
 ## Оглавление
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -36,6 +36,10 @@
 
 ## Что нового?
 ```
+2.05: [+] DEBUG загрузи позиций из истории построчно
+      [*] После открытия позиций их параметры больше не загружаются из истории
+2.04: [+] DEBUG загрузки MainPos из истории на новом шаге сетки с EP, SL, TP
+2.03: [+] DEBUG при открытии позиций на новом шаге сетки с EP, SL, TP
 2.02: [+] DEBUG лог поиска позиции в истории
 2.01: [+] DEBUG лог при SL
 2.00: [+] Гибкий мультипликатор лота: 'SET_LOT_NXS' и 'SET_LOT_NXR'

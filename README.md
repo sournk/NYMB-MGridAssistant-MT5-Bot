@@ -4,7 +4,7 @@
 
 * Designed by https://www.mql5.com/ru/job/233710
 * Coded by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https:kislitsyn.me/personal/algo)
-* Version: 3.00
+* Version: 3.02
 
 ## Оглавление
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -37,6 +37,8 @@
 
 ## Что нового?
 ```
+3.02: [+] Разное число частичных TP для основной и хэдж позиции в SET_TRD_PTP_*"
+      [*] Цена выхода по целевому TP определяется точнее именно по последней сделке позиции DEAL_OUT
 3.01: [*] Сетка продолжается пока не достигнет финального TP. Ранне сетка завершалась, когда прибыль частичных TP основной позиции превысила SL
 3.00: [+] SET_TRD_PTP для частичных закрытий по TP
 2.05: [+] DEBUG загрузи позиций из истории построчно
